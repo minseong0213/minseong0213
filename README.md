@@ -13,7 +13,7 @@
 # Learn Languages
 
 <div align="center">
-    <img src="https://img.shields.io/badge/A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-EC1C24?style=for-the-badge&logo=JAVA&logoColor=white">
     <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=C#&logoColor=white">
